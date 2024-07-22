@@ -58,14 +58,6 @@ For detailed instructions on configuring Nginx using Ansible, please refer to th
 
 For detailed instructions on configuring MongoDB using Ansible, please refer to the [MongoDB Configuration README](https://github.com/AmanPathak-DevOps/CICD-Ansible/blob/master/Ansible-Mongo-Role/README.md).
 
-## Feedback
 
-We welcome your feedback and suggestions! If you encounter any issues or have ideas for improvements, please [open an issue](link-to-issue-tracker).
 
-## Contributing
 
-Contributions are always appreciated! If you'd like to contribute to this project, please follow our [contribution guidelines](link-to-contribution-guidelines).
-
-## License
-
-This project is licensed under the [MIT License](link-to-license-file).
